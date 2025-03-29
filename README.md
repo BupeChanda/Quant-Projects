@@ -1,4 +1,4 @@
-Main topics:
+# Ghosal Quantitatve Analyst Projects 2024-25
 
 Multiple Joint Crashes: 
 - Multivariate Extremes
