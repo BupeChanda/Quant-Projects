@@ -10,6 +10,6 @@ Options Pricing:
 Value at Risk: 
 - Monte Carlo Simulations
 
-Macroeconomic Indicators: 
+Macroeconomic Forecasting: 
 - Ornstein-Uhlenbeck Mean-reversion
 - ARIMA models
