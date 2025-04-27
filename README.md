@@ -13,3 +13,6 @@ Value at Risk:
 Macroeconomic Forecasting: 
 - Ornstein-Uhlenbeck Mean-reversion
 - ARIMA models
+
+Competitor Analysis: 
+- Cosine Similarity
