@@ -13,3 +13,6 @@ Value at Risk:
 Macroeconomic Forecasting: 
 - Ornstein-Uhlenbeck Mean-reversion
 
+Time Series
+- Exponential Smoothing
+- ARIMA
