@@ -8,7 +8,7 @@
 - Options Pricing
   - Bjerksund-stensland model for Implied Volatility Sheet
   - Black Scholes for Implied Volatility Sheet
-  - Crank–Nicolson + Projected Successive Over-Relaxation
+  - Crank–Nicolson and Projected Successive Over-Relaxation (CN + PSOR)
 
 - Risk Analysis
-  - Value at Risk Monte Carlo
+  - Value at Risk Monte Carlo (VaR MC)
