@@ -1,15 +1,11 @@
-# Ghosal Quantitatve Analyst Projects 2024-25
+# Quantitatve Analysis Projects
 
-Options Pricing:
-- Black Scholes & Bjerksund Stensland model
-- Numerical analysis for approximations
-
-Value at Risk: 
-- Monte Carlo Simulations
-
-Macroeconomic Forecasting: 
-- Ornstein-Uhlenbeck Mean-reversion
-
-Time Series
-- Exponential Smoothing
-- ARIMA
+## Stocks
+The emphasis here will be more on models than on specific stocks
+  - Autoregressive Models
+  -  
+## Commodities
+Here I will primarily conduct macroeconomic analysis on various commodities
+- Oil
+- Gold
+- Options
