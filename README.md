@@ -7,7 +7,7 @@
 - Options Pricing
   - Bjerksund-stensland model for Implied Volatility Sheet
   - Black Scholes for Implied Volatility Sheet
-  - Projected Successive Over-Relaxation
+  - Crank–Nicolson + Projected Successive Over-Relaxation
 
 - Risk Analysis
   - Value at Risk Monte Carlo
