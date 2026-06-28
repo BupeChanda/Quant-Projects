@@ -4,6 +4,7 @@
   - Ornstein-Uhlenbeck
 - Mueller Industries
   - Generalized Autoregressive Conditional Heteroskedasticity (GARCH)
+  - Johansen Co-integration Test
 - Options Pricing
   - Bjerksund-stensland model for Implied Volatility Sheet
   - Black Scholes for Implied Volatility Sheet
